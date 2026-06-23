@@ -1,0 +1,12 @@
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Attendance data
+attendence.csv
